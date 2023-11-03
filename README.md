@@ -4,3 +4,6 @@
       We develop a user-friendly software ESHAPE for public service, integrating better contour extraction, efficient EFDs calculation, and true EFD normalization under all basic contour transformations.
 
 # Mannal
+https://github.com/jiajie789/ESHAPE/blob/main/Manual.pdf
+
+
