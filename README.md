@@ -11,7 +11,7 @@ We develop a user-friendly software ESHAPE for public service, integrating bette
 [Manual](https://github.com/jiajie789/ESHAPE/blob/main/Manual.pdf)
 
 # Install
-Download the last release of ESHAPE from [here](https://github.com/jiajie789/ESHAPE/tree/main)
+Download the last release of ESHAPE from [here](https://github.com/jiajie789/ESHAPE)
 
 Developed using MATLAB, ESHAPE requires MATLAB R2016a or later version for compilation and execution. ESHAPE is distributed as a zip package. You just need to **unzip the zip package** to any location on your computer and run the file "ESHAPE.m" in MATLAB to execute the program.
 
