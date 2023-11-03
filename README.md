@@ -9,10 +9,10 @@ This part comprises two functions: normalizing the EFDs and visualizing reconstr
 - Elliptic Fourier analysis. During computation, users can define the harmonic number and choose normalization options, all engaged as a default setup for true EFDs. Ultimately, user-defined normalized EFDs can be exported for comparative applications and further analysis.      
 
 # Manual
-[Manual](https://github.com/jiajie789/ESHAPE/blob/main/Manual.pdf)
+[Manual](https://github.com/pdc789/ESHAPE/blob/main/Manual.pdf)
 
 # Install
-Download the last release of ESHAPE from [here](https://github.com/jiajie789/ESHAPE)
+Download the last release of ESHAPE from [here](https://github.com/pdc789/ESHAPE)
 
 Developed using MATLAB, ESHAPE requires MATLAB R2016a or later version for compilation and execution. ESHAPE is distributed as a zip package. You just need to **unzip the zip package** to any location on your computer and run the file "ESHAPE.m" in MATLAB to execute the program.
 
