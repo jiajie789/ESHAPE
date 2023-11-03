@@ -8,6 +8,6 @@ We develop a user-friendly software ESHAPE for public service, integrating bette
 - Elliptic Fourier analysis. During computation, users can define the harmonic number and choose normalization options, all engaged as a default setup for true EFDs. Ultimately, user-defined normalized EFDs can be exported for comparative applications and further analysis.      
 
 # Manual
-[Manual]https://github.com/jiajie789/ESHAPE/blob/main/Manual.pdf
+[Manual](https://github.com/jiajie789/ESHAPE/blob/main/Manual.pdf)
 
 
