@@ -12,6 +12,12 @@ Download the last release of ESHAPE from [here](https://github.com/pdc789/ESHAPE
 Developed using MATLAB, ESHAPE requires MATLAB R2016a or later version for compilation and execution. ESHAPE is distributed as a zip package. You just need to **unzip the zip package** to any location on your computer and run the file "ESHAPE.m" in MATLAB to execute the program.
 
 # Code Checklist
+1.Main program
+
+ESHAPE.m   Source program of main page. ESHAPE can be run by executing this file using MATLAB 2016a or later.
+
+ESHAPE.fig   Graphical user interface of main page.
+
 2.Functions
 
 Contour extraction
