@@ -12,12 +12,6 @@ Download the last release of ESHAPE from [here](https://github.com/pdc789/ESHAPE
 Developed using MATLAB, ESHAPE requires MATLAB R2016a or later version for compilation and execution. ESHAPE is distributed as a zip package. You just need to **unzip the zip package** to any location on your computer and run the file "ESHAPE.m" in MATLAB to execute the program.
 
 # Code Checklist
-1.Main program
-
-ESHAPE.m   Source program of main page. ESHAPE can be run by executing this file using MATLAB 2016a or later.
-
-ESHAPE.fig   Graphical user interface of main page.
-
 2.Functions
 
 Contour extraction
@@ -50,11 +44,11 @@ Elliptic Fourier analysis
 
 13)calc_traversal_time.m   Calculate traversal time which is defined as accumulated time consumed by every component of the chain code.
 
-14)calc_traversal_vector.m   Generate position coordinates of chain code. 
+14)plot_fourier_approx_modify.m   Plot the fourier approximation, given a chain code, number of harmonic elements (n), and number of points for reconstruction (m). Normalization can be applied by setting "normalized = 1".
 
-15)plot_fourier_approx_modify.m   Plot the fourier approximation, given a chain code, number of harmonic elements (n), and number of points for reconstruction (m). Normalization can be applied by setting "normalized = 1".
+3.Transform
 
-Other codes used in case study and stored in file "transform"
+15)MainDlg.m   Main program for the normalization test under basic transformations.
 
 16)chain_code_ysysmmetry_func.m   Generate y-axis symmetric chain code.
 
@@ -67,3 +61,14 @@ Other codes used in case study and stored in file "transform"
 20)chain_code_rotatec_func.m   Generate clockwise rotating chain code.
 
 21)chain_code_reverse_func.m   Generate reversal chain code.
+
+
+4.Source files
+
+The codes are based on the procedure of Elliptic Fourier analysis established by Kuhl and Giardina (1982).
+
+Copyright (c) 2011, auralius manurung.
+
+# License
+Copyright (c), IBCAS@2023,GPL-2.0
+All rights reserved.
