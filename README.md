@@ -7,9 +7,12 @@ In this study, we develop a user-friendly software ESHAPE for public service, in
 [Manual](https://github.com/pdc789/ESHAPE/blob/main/Manual.pdf)
 
 # Install
-Download the last release of ESHAPE from [here](https://github.com/pdc789/ESHAPE)
 
-Developed using MATLAB, ESHAPE requires MATLAB R2016a or later version for compilation and execution. ESHAPE is distributed as a zip package. You just need to **unzip the zip package** to any location on your computer and run the file "ESHAPE.m" in MATLAB to execute the program.
+This software is developed using MATLAB 2016a and can be downloaded from the following website: https://github.com/pdc789/ESHAPE or https://www.scidb.cn/en/anonymous/bTJRakVm. After downloading, extract all the files from 'ESHAPE.zip' into a folder named 'ESHAPE'. Two selection:
+
+(1) For the MATLAB environment: Locate the 'ESHAPE.m' file and run it using MATLAB 2016a or later. This action will guide you to the main program interface. 
+
+(2) For the standalone application: In cases where MATLAB 2016a or a more recent version is not already installed, an installer that includes the necessary MATLAB Runtime is provided. Locate and double-click the 'installer_ESHAPE.exe' file to generate the 'ESHAPE.exe' file. Subsequently, double-click on 'ESHAPE.exe' to launch the application.
 
 # Code Checklist
 1.Main program
