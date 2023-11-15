@@ -8,7 +8,7 @@ In this study, we develop a user-friendly software ESHAPE for public service, in
 
 # Install
 
-This software is developed using MATLAB 2016a and can be downloaded from the following website: https://github.com/pdc789/ESHAPE or https://www.scidb.cn/en/anonymous/bTJRakVm. After downloading, extract all the files from 'ESHAPE.zip' into a folder named 'ESHAPE'. Two selection:
+This software is developed using MATLAB 2016a and can be downloaded from the following website: https://github.com/pdc789/ESHAPE (not including "installer_ESHAPE.exe") or https://www.scidb.cn/en/anonymous/bTJRakVm (including "installer_ESHAPE.exe"). After downloading, extract all the files from 'ESHAPE.zip' into a folder named 'ESHAPE'. Two selection:
 
 (1) For the MATLAB environment: Locate the 'ESHAPE.m' file and run it using MATLAB 2016a or later. This action will guide you to the main program interface. 
 
