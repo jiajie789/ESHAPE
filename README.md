@@ -25,7 +25,7 @@ ESHAPE.fig   Graphical user interface of main page.
 
 Contour extraction
 
-1)gui_chain_code_func20221129.m   Generate chain code based on binary image.
+1)gui_chain_code_func.m   Generate chain code based on binary image.
 
 2)code2axis.m   Convert chain code to coordinates.
 
