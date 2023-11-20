@@ -43,7 +43,7 @@ Elliptic Fourier analysis
 
 8)EFA.fig   Graphical user interface of "Ellipse Fourier Analysis" page.
 
-9)fourier_approx_norm_modify_20231008.m   Generate position coordinates of fourier approximation of chain code.
+9)fourier_approx_norm_modify.m   Generate position coordinates of fourier approximation of chain code.
 
 10)calc_harmonic_coefficients_modify.m   Calculate the n-th set of four harmonic coefficients.
 
